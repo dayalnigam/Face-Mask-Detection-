@@ -7,3 +7,4 @@ IDE : Jupyter Notebook
 YouTube : https://www.youtube.com/watch?v=5Fn2C9F2UB8
 
 
+![Face Mask Detection](https://user-images.githubusercontent.com/57106200/140657023-8b0ed311-504a-45df-a396-15480142dde5.png)
